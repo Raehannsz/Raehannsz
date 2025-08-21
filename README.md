@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 
 #### Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,php,laravel,cpp,mysql)](https://skillicons.dev)
+<br>
 <img src="https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" />
 
 #### Connect With Me
