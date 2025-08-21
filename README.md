@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there I'm Raehan Mahardika Herlambang👋
+
+![Raehannsz](img/code.jpeg)
 
 <!--
 **Raehannsz/Raehannsz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I am currently studying in the Information Systems Department at Amikom University Yogyakarta.
+
+- 🌱 I’m currently learning Javascript, Codeigniter, and Laravel.
