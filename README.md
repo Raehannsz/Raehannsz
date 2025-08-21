@@ -1,4 +1,4 @@
-## Hi there I'm Raehan Mahardika Herlambang👋
+## Hi there 👋 I'm Raehan Mahardika Herlambang
 
 ![Raehannsz](img/banner.png)
 
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I am currently studying in the Information Systems Department at Amikom University Yogyakarta.
+- 🔭 I'm currently studying in the Information Systems Department at Amikom University Yogyakarta.
 
 - 🌱 I’m currently learning **Javascript**, **Codeigniter**, and **Laravel**.
 
