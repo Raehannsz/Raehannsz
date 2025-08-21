@@ -33,5 +33,7 @@ Here are some ideas to get you started:
 
 ![Raehansz's GitHub stats](https://github-readme-stats.vercel.app/api?username=raehannsz&show_icons=true&theme=cobalt)
 
+<img src="https://raw.githubusercontent.com/raehannsz/raehannsz/output/snake.svg" alt="Snake animation" />
+
 
 
