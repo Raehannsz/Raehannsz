@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I'm currently studying in the Information Systems Department at Amikom University Yogyakarta.
+- I'm currently studying in the Information Systems Department at Amikom University Yogyakarta.
 
-- 🌱 I’m currently learning **Javascript**, **Codeigniter**, and **Laravel**.
+- I’m currently learning **Javascript** and **Laravel**.
 
 #### Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,php,laravel,cpp,mysql)](https://skillicons.dev)
